@@ -1,5 +1,9 @@
 # 🎶 Reproductor Retro de Casete con HTML5 Audio  
 
+
+https://github.com/user-attachments/assets/5f1ba04c-ec1b-43d2-bfae-147c81a45dda
+
+
 Un experimento web que combina **nostalgia y tecnología moderna**: un reproductor de audio en **HTML5, CSS3 y JavaScript** con la estética de un viejo casete.  
 Inspirado en los clásicos walkmans y grabadores de cinta de las décadas de los 70, 80 y 90 en Argentina.  
 
@@ -8,13 +12,8 @@ Inspirado en los clásicos walkmans y grabadores de cinta de las décadas de los
 ---
 
 ## 📸 Vista previa  
-![Demo Cassette Player](./screenshot.png)  
-*(Agrega aquí tu captura de pantalla del proyecto)*  
+![Demo Cassette Player](./screenshot.png)  https://josecondori-ai.github.io/Casete_vintage/
 
----
-
-## 🚀 Demo en vivo  
-👉 [Ver demo en GitHub Pages](https://TU-USUARIO.github.io/TU-REPO)  
 
 ---
 
